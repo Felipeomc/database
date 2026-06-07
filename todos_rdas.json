@@ -1,0 +1,4068 @@
+{
+  "meta": {
+    "total_projetos": 36,
+    "total_participantes": 258,
+    "erros": 0
+  },
+  "projetos": [
+    {
+      "project_name": "AI Engagement",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Progressive Web App (PWA)"
+          ],
+          "programming_languages": [],
+          "email": "andre.andrade@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Langflow",
+            "Angular",
+            "Cloudinary"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "TypeScript"
+          ],
+          "email": "antonio.abreu@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Kore.ai",
+            "Node.js",
+            "OpenAI GPT"
+          ],
+          "programming_languages": [
+            "SQL",
+            "JavaScript"
+          ],
+          "email": "bruno.vasconcelos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Amazon Bedrock",
+            "Angular"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "TypeScript"
+          ],
+          "email": "magno.dantas@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Arquitetura de Decodificação Multimídia para Dispositivos de Eletrônica de Consumo",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Sistemas Embarcados"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "Lua",
+            "C++",
+            "C"
+          ],
+          "email": "adrian.guedes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "TV Digital"
+          ],
+          "development_ecosystem": [
+            "Ginga"
+          ],
+          "programming_languages": [],
+          "email": "elyervesson.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "TV Digital"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "icaro.lima@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "CISOP",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "ASP.NET Core"
+          ],
+          "programming_languages": [
+            "C#",
+            "SQL"
+          ],
+          "email": "felipe.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Pipedrive",
+            "React",
+            "TensorFlow"
+          ],
+          "programming_languages": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+          ],
+          "email": "joaquim.honorio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Pipedrive",
+            "SQL Server",
+            "React",
+            "ASP.NET Core",
+            "Material UI",
+            "React Query"
+          ],
+          "programming_languages": [
+            "CSS",
+            "C#",
+            "JavaScript",
+            "SQL",
+            "HTML"
+          ],
+          "email": "tales.satiro@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Pipedrive",
+            "React",
+            "TensorFlow",
+            "Material UI",
+            "React Query"
+          ],
+          "programming_languages": [
+            "CSS",
+            "JavaScript"
+          ],
+          "email": "wendley.franca@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Configuration Enhancer",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Node.js",
+            "Spring Boot",
+            "WebSocket"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "arkjoaquitonyo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot",
+            "AWS Lambda"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "fernando.junior@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Node.js",
+            "Spring Boot",
+            "WebSocket"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "leandro.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot",
+            "UDP/TCP"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "matheus.claudino@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "maysa.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot",
+            "AWS Lambda"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Java"
+          ],
+          "email": "dyego.ferreira@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "DistributedSecAccess",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "Android",
+            "Smart Tap"
+          ],
+          "programming_languages": [],
+          "email": "adauto.barros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Jetpack Compose"
+          ],
+          "programming_languages": [],
+          "email": "aramis.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "NFC",
+            "Apple CarPlay",
+            "iOS",
+            "AWS Lambda",
+            "AWS DynamoDB",
+            "Apple Keychain"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "arkjoaquitonyo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "AWS API Gateway",
+            "Mutual TLS",
+            "AWS Lambda",
+            "AWS DynamoDB",
+            "AWS IoT Core"
+          ],
+          "programming_languages": [],
+          "email": "augusto.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "Apple CarPlay",
+            "iOS"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "bruno.brandao@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "iOS"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "catarina.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "iOS",
+            "REST API",
+            "AWS API Gateway",
+            "Mutual TLS",
+            "AWS Lambda",
+            "AWS DynamoDB"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "felipe.felix@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "REST API",
+            "AWS API Gateway",
+            "Mutual TLS",
+            "AWS Lambda",
+            "AWS DynamoDB"
+          ],
+          "programming_languages": [
+            "Kotlin"
+          ],
+          "email": "fernando.junior@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "Android",
+            "iOS"
+          ],
+          "programming_languages": [
+            "Java",
+            "Kotlin"
+          ],
+          "email": "matheus.claudino@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "Android"
+          ],
+          "programming_languages": [],
+          "email": "vinicius.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Hikvision",
+            "Android"
+          ],
+          "programming_languages": [],
+          "email": "wesley.herculano@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Document Analyzer",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Azure Document Intelligence",
+            "Google Document AI"
+          ],
+          "programming_languages": [],
+          "email": "adriano.lemos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Google Gemini",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "augusto.firmo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "OpenSearch",
+            "Azure Document Intelligence",
+            "Amazon Bedrock",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "diego.lima@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon Bedrock",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Google Gemini",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "eduardo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Azure Document Intelligence",
+            "Google Document AI"
+          ],
+          "programming_languages": [],
+          "email": "john.lima@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Azure Document Intelligence",
+            "Google Document AI"
+          ],
+          "programming_languages": [],
+          "email": "jose.falcone@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Docker",
+            "AWS Lambda",
+            "Amazon SQS",
+            "OpenSearch",
+            "Azure Document Intelligence",
+            "AWS Textract",
+            "Amazon Bedrock",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python",
+            "TypeScript"
+          ],
+          "email": "kewyn.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS Lambda",
+            "Azure Document Intelligence",
+            "AWS Textract",
+            "Amazon Bedrock",
+            "Google Gemini",
+            "LangChain"
+          ],
+          "programming_languages": [],
+          "email": "matheus.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Terraform",
+            "Docker",
+            "AWS Lambda",
+            "Amazon S3",
+            "Amazon SQS",
+            "Azure Document Intelligence"
+          ],
+          "programming_languages": [
+            "Python",
+            "Java",
+            "TypeScript"
+          ],
+          "email": "matheus.barbosa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Docker",
+            "OpenSearch",
+            "Azure Document Intelligence",
+            "Google Document AI",
+            "Amazon Bedrock",
+            "Google Gemini"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "thales.souto@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Azure Document Intelligence",
+            "Google Document AI",
+            "Azure OpenAI",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "fabio.almendro@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS Lambda",
+            "Amazon S3",
+            "OpenSearch",
+            "Azure Document Intelligence",
+            "Google Document AI",
+            "Amazon Bedrock"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "maysa.araujo@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Drop Cable Test Jig",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Load Cells"
+          ],
+          "programming_languages": [],
+          "email": "amos.figueiredo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "PLC"
+          ],
+          "programming_languages": [],
+          "email": "andre.cavalcante@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "PLC",
+            "HMI",
+            "Load Cells",
+            "Stepper Motors",
+            "Position Sensors"
+          ],
+          "programming_languages": [
+            "Ladder Logic"
+          ],
+          "email": "bruno.arruda@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "HMI"
+          ],
+          "programming_languages": [],
+          "email": "daniel.pires@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "HMI",
+            "REST API"
+          ],
+          "programming_languages": [],
+          "email": "diego.alan@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "PLC",
+            "HMI",
+            "Servo Motors",
+            "Load Cells",
+            "Inductive Sensors"
+          ],
+          "programming_languages": [],
+          "email": "jonatas.kinas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "HMI",
+            "Raspberry Pi",
+            "pymodbus",
+            "RS485",
+            "Modbus RTU",
+            "Linux",
+            "Node.js",
+            "REST API",
+            "RevPi Connect"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "marcelo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "PLC",
+            "HMI",
+            "Load Cells",
+            "Stepper Motors",
+            "Position Sensors"
+          ],
+          "programming_languages": [],
+          "email": "yago.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "EPSON ADVANTAGES",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Metabase"
+          ],
+          "programming_languages": [],
+          "email": "bruno.vasconcelos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "guilherme.neves@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "luciano.reul@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "marcio.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "OpenAI",
+            "Chart.js",
+            "Claude",
+            "LLaMA",
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "SQL",
+            "JavaScript",
+            "Java"
+          ],
+          "email": "marcos.costa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Mistral",
+            "Falcon"
+          ],
+          "programming_languages": [
+            "SQL"
+          ],
+          "email": "marcus.bezerra@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Enhanced Platform and Workflow Telemetry Collection 2023",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "PCI",
+            "Intel PCM",
+            "Windows Kernel",
+            "MSRs",
+            "MongoDB"
+          ],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "rony.andrade@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "PCI",
+            "Windows",
+            "Libre Hardware Monitor",
+            "Intel PCM",
+            "Super I/O",
+            "Windows Kernel",
+            "MSRs",
+            "MongoDB",
+            "NVML",
+            "KMDF"
+          ],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "lyang.medeiros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "PCI",
+            "Windows",
+            "Super I/O",
+            "Windows Kernel"
+          ],
+          "programming_languages": [
+            "C++",
+            "Python"
+          ],
+          "email": "leandro.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "Windows"
+          ],
+          "programming_languages": [
+            "C++",
+            "Python"
+          ],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "PCI",
+            "Windows",
+            "Intel PCM",
+            "Super I/O",
+            "Windows Kernel",
+            "MSRs",
+            "WMI",
+            "KMDF"
+          ],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "charles.dias@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "PCI",
+            "Windows",
+            "Libre Hardware Monitor",
+            "MSRs"
+          ],
+          "programming_languages": [
+            "C++",
+            "Python"
+          ],
+          "email": "arthur.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Windows",
+            "Intel PCM"
+          ],
+          "programming_languages": [],
+          "email": "antonio.queiroz@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "IA TEAMS",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "AWS",
+            "Amazon Bedrock",
+            "AWS Glue",
+            "Amazon Kendra"
+          ],
+          "programming_languages": [
+            "Python",
+            "SQL"
+          ],
+          "email": "antonio.queiroz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "AWS",
+            "Azure OpenAI"
+          ],
+          "programming_languages": [
+            "Python",
+            "TypeScript"
+          ],
+          "email": "eduardo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Amazon Bedrock",
+            "Amazon Kendra"
+          ],
+          "programming_languages": [],
+          "email": "fabricio.epaminondas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "AWS",
+            "Amazon Bedrock",
+            "AWS Glue",
+            "Microsoft SharePoint",
+            "Amazon Kendra",
+            "Microsoft SQL Server",
+            "Snowflake"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Java"
+          ],
+          "email": "luiz.escorel@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Amazon Bedrock",
+            "Amazon Kendra"
+          ],
+          "programming_languages": [],
+          "email": "marcos.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "AWS",
+            "Amazon Bedrock",
+            "AWS Glue",
+            "Microsoft SharePoint",
+            "Amazon Kendra",
+            "Microsoft SQL Server",
+            "Snowflake"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Java"
+          ],
+          "email": "matheus.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Amazon Bedrock",
+            "Amazon Kendra",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Python",
+            "TypeScript",
+            "HTML",
+            "SCSS"
+          ],
+          "email": "matheus.barbosa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "mirko@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "AWS",
+            "Amazon Kendra",
+            "Spring Boot",
+            "Docker"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Java"
+          ],
+          "email": "victor.batista@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "IDSecAccess",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "NFC",
+            "LONGSE SDK",
+            "Android",
+            "Google Wallet API",
+            "MQTT"
+          ],
+          "programming_languages": [],
+          "email": "adauto.barros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "LONGSE SDK",
+            "Android"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "aramis.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "NFC",
+            "MIFARE",
+            "iOS",
+            "AWS Lambda",
+            "AWS API Gateway",
+            "Apple VAS"
+          ],
+          "programming_languages": [],
+          "email": "arkjoaquitonyo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "AWS Lambda",
+            "AWS IoT Core"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "augusto.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "iOS",
+            "Bluetooth Low Energy"
+          ],
+          "programming_languages": [],
+          "email": "bruno.brandao@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LONGSE SDK",
+            "iOS",
+            "Bluetooth Low Energy",
+            "DynamoDB"
+          ],
+          "programming_languages": [],
+          "email": "catarina.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "LONGSE SDK",
+            "iOS",
+            "Bluetooth Low Energy"
+          ],
+          "programming_languages": [],
+          "email": "felipe.felix@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Bluetooth Low Energy"
+          ],
+          "programming_languages": [
+            "Kotlin"
+          ],
+          "email": "vinicius.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LONGSE SDK",
+            "Android",
+            "Bluetooth Low Energy",
+            "DynamoDB"
+          ],
+          "programming_languages": [],
+          "email": "wesley.herculano@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "LONGSE SDK",
+            "Android"
+          ],
+          "programming_languages": [
+            "Kotlin",
+            "Java"
+          ],
+          "email": "matheus.claudino@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "IOT INTEROPERABILITY",
+      "project_year": "2022",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "SCADA",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Windows",
+            "MQTT",
+            "Windows Service",
+            "HTTP",
+            "SQLite",
+            "REST API"
+          ],
+          "programming_languages": [
+            "C++",
+            "SQL"
+          ],
+          "email": "gabriel.costa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "SCADA",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Windows",
+            "MQTT",
+            "Windows Service",
+            "HTTP",
+            "REST API"
+          ],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "jose.antonio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "SCADA",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Windows",
+            "MQTT",
+            "Windows Service",
+            "REST API"
+          ],
+          "programming_languages": [
+            "C++"
+          ],
+          "email": "kewyn.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "LARS-AI",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "LlamaIndex",
+            "ChromaDB",
+            "FastAPI",
+            "FastText",
+            "Ollama",
+            "REST API"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "antonio.queiroz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "LlamaIndex",
+            "ChromaDB",
+            "FastAPI",
+            "Ollama",
+            "Unity"
+          ],
+          "programming_languages": [],
+          "email": "eanes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "XR"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Tortoise TTS",
+            "REST API",
+            "Unity"
+          ],
+          "programming_languages": [
+            "C#"
+          ],
+          "email": "guilherme.neves@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "XR"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "whisper.cpp",
+            "Tortoise TTS",
+            "REST API",
+            "TLS",
+            "Xreal Air",
+            "Unity",
+            "NRSDK"
+          ],
+          "programming_languages": [
+            "C#"
+          ],
+          "email": "rony.andrade@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "XR"
+          ],
+          "development_ecosystem": [
+            "Ollama",
+            "Unity",
+            "NRSDK"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "veruska.santos@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "LMS",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "arthur.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "SCORM",
+            "xAPI",
+            "Learning Record Store (LRS)",
+            "Angular",
+            "Docker",
+            "XMPP"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "danilo.coutinho@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "SCORM",
+            "xAPI",
+            "Angular",
+            "Amazon S3",
+            "AWS Lambda"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "joao.bezerra@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "PWA",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "magno.dantas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "SCORM",
+            "Angular",
+            "XMPP",
+            "NLTK"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "marcio.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "marcos.costa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Docker",
+            "XMPP",
+            "OAuth 2.0"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "roberto.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML5"
+          ],
+          "email": "talles.gomes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "alfredo.andrade@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "arthur.porto@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "diego.cruz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "MongoDB",
+            "Angular",
+            "Ionic",
+            "Docker"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "luana.melo@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Local Prints",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Stable Diffusion",
+            "OAuth",
+            "Angular",
+            "Spring Boot",
+            "JWT",
+            "Spring Security"
+          ],
+          "programming_languages": [
+            "Java",
+            "TypeScript"
+          ],
+          "email": "cristal.mazamba@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "OAuth",
+            "MySQL",
+            "Angular",
+            "Adobe IMS",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java",
+            "TypeScript"
+          ],
+          "email": "italo.lins@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "luiz.escorel@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "magno.dantas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Stable Diffusion"
+          ],
+          "programming_languages": [],
+          "email": "paulo.lira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "talles.gomes@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Mobile-KDS",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Cloud",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Raspberry Pi",
+            "Flask",
+            "Ollama",
+            "LLaMA"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "ewerton.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Angular",
+            "ESC/POS"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "franklin.bastos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "ESC/POS"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "pedro.mello@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "romildo.freitas@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "MultiHub-IoT",
+      "project_year": "2022",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "IoT",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Node-RED",
+            "Modbus",
+            "MQTT",
+            "Angular",
+            "REST API",
+            "Spring Boot",
+            "H2",
+            "Mosquitto"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "andre.andrade@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Node-RED",
+            "Modbus",
+            "MQTT"
+          ],
+          "programming_languages": [],
+          "email": "cristal.mazamba@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Docker",
+            "Windows Server",
+            "Linux"
+          ],
+          "programming_languages": [],
+          "email": "galileu.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Node-RED",
+            "Modbus",
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "gerson.vieira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Node-RED",
+            "Modbus",
+            "MQTT",
+            "OPC UA"
+          ],
+          "programming_languages": [],
+          "email": "igor.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "victor.batista@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "POS Companion App",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Mobile",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "React Native",
+            "Epson SDK",
+            "RAGFlow",
+            "Amazon Lex",
+            "Spring Boot",
+            "Bluetooth"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "alyson.vale@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "React Native",
+            "AWS",
+            "Kafka",
+            "Redis"
+          ],
+          "programming_languages": [],
+          "email": "aristotenes.vilar@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "iOS",
+            "AWS"
+          ],
+          "programming_languages": [],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "React Native",
+            "Epson SDK",
+            "OpenAI"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "nayara.souza@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "React Native",
+            "Epson SDK",
+            "Firebase",
+            "Kafka",
+            "Redis",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "rafael.azevedo@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Personal Print AI",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon Lex"
+          ],
+          "programming_languages": [],
+          "email": "diego.ferreira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Mobile",
+            "Cloud",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "AWS IoT Core",
+            "Amazon Lex",
+            "MQTT",
+            "AWS Lambda",
+            "Gemini API",
+            "React Native",
+            "AWS API Gateway",
+            "Node.js",
+            "Amazon S3"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "Shell Script"
+          ],
+          "email": "kaio.lucena@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Mobile",
+            "Cloud",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Gemini API",
+            "React Native",
+            "Node.js",
+            "Raspberry Pi",
+            "Pytesseract"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Python",
+            "TypeScript",
+            "PowerShell"
+          ],
+          "email": "raiani.pontes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "React Native"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Python",
+            "TypeScript"
+          ],
+          "email": "singrid.palmeira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Mobile",
+            "Cloud",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Qdrant",
+            "Ollama",
+            "LangChain",
+            "AWS IoT Core",
+            "LLaMA",
+            "Raspberry Pi"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Python"
+          ],
+          "email": "vinicius.macedo@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Print and Go",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Ionic",
+            "Angular",
+            "Google Maps",
+            "PWA"
+          ],
+          "programming_languages": [
+            "Java",
+            "CSS",
+            "HTML",
+            "JavaScript"
+          ],
+          "email": "carlos.souza@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "gustavo.pires@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Epson Open Platform",
+            "PWA"
+          ],
+          "programming_languages": [],
+          "email": "jeremias.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "REST API"
+          ],
+          "programming_languages": [],
+          "email": "leandro.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Stripe"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "rodrigo@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "QAP-EasyBuilder",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "TR-069",
+            "TR-181",
+            "GenieACS",
+            "Realtek SDK",
+            "TR-098",
+            "Wi-Fi",
+            "UPnP"
+          ],
+          "programming_languages": [],
+          "email": "anderson.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "REST API",
+            "Spring Boot",
+            "Docker",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "camila.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "TR-069",
+            "TR-181",
+            "TR-098",
+            "Wi-Fi",
+            "Bifrost HAL",
+            "PPPoE"
+          ],
+          "programming_languages": [],
+          "email": "fabiano.miranda@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "TR-069",
+            "TR-181",
+            "GenieACS",
+            "Wi-Fi",
+            "PPPoE"
+          ],
+          "programming_languages": [],
+          "email": "fernando.vita@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "REST API",
+            "Spring Boot",
+            "Javassist",
+            "Docker"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "higor.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "REST API",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "joaquim.honorio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "TR-069",
+            "Spring Boot",
+            "GenieACS",
+            "Docker"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "paulo.leite@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "REST API",
+            "Docker",
+            "Angular",
+            "WebSocket"
+          ],
+          "programming_languages": [],
+          "email": "tiago.nobrega@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "TR-069",
+            "Spring Boot",
+            "GenieACS",
+            "Docker"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "vinicius.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Rastreamento de Ativos Fixos",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "axel.medeiros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "MySQL"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "bruno.winkeler@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "SAP",
+            "Angular",
+            "REST API",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "diego.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "franklin.bastos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "SAP",
+            "Angular",
+            "REST API",
+            "MySQL"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "SQL"
+          ],
+          "email": "italo.lins@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Okta",
+            "Angular",
+            "Spring Boot",
+            "AWS"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "kewyn.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Java"
+          ],
+          "email": "marcelo.fernandes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS SES",
+            "AWS"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "marcos.arruda@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Spring Boot",
+            "MySQL",
+            "Liquibase"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Java"
+          ],
+          "email": "sydeney.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Node.js",
+            "REST API",
+            "PostgreSQL"
+          ],
+          "programming_languages": [
+            "CSS",
+            "TypeScript",
+            "SQL"
+          ],
+          "email": "anthony.ferreira@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "PostgreSQL",
+            "Next.js",
+            "NestJS",
+            "Docker",
+            "Leaflet",
+            "Spring Boot",
+            "MySQL"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "JavaScript",
+            "Java"
+          ],
+          "email": "hiago.lacerda@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "PostgreSQL",
+            "Next.js",
+            "NestJS",
+            "Docker",
+            "Leaflet",
+            "Spring Boot",
+            "MySQL"
+          ],
+          "programming_languages": [
+            "CSS",
+            "TypeScript",
+            "JavaScript",
+            "Java"
+          ],
+          "email": "izabella.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular",
+            "Node.js"
+          ],
+          "programming_languages": [
+            "CSS",
+            "TypeScript"
+          ],
+          "email": "mirlla.alves@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "raiani.pontes@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Reco Sync",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web",
+            "Cloud",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Angular",
+            "AWS",
+            "Google Gemini",
+            "Node.js"
+          ],
+          "programming_languages": [
+            "CSS",
+            "Python",
+            "HTML"
+          ],
+          "email": "ana.macedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Stripe",
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Java",
+            "JavaScript"
+          ],
+          "email": "edney.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Android",
+            "Angular",
+            "AWS"
+          ],
+          "programming_languages": [
+            "SQL"
+          ],
+          "email": "genilson.martins@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Stripe",
+            "Angular"
+          ],
+          "programming_languages": [],
+          "email": "igor.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Stripe",
+            "Angular"
+          ],
+          "programming_languages": [
+            "CSS",
+            "HTML",
+            "TypeScript"
+          ],
+          "email": "italo.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Stripe",
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [],
+          "email": "luiz.escorel@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Android",
+            "Angular",
+            "AWS",
+            "NFC"
+          ],
+          "programming_languages": [
+            "Python",
+            "HTML"
+          ],
+          "email": "maria.henrique@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Android",
+            "Apache Spark",
+            "Docker"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "mirko@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "REST API",
+            "Stripe",
+            "Docker",
+            "AWS",
+            "Spring Boot",
+            "RabbitMQ"
+          ],
+          "programming_languages": [],
+          "email": "pedro.medeiros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "MongoDB",
+            "REST API",
+            "Android",
+            "Docker",
+            "AWS",
+            "Spring Boot",
+            "NFC"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "renan.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Mobile",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Android",
+            "Angular",
+            "Docker",
+            "NFC"
+          ],
+          "programming_languages": [
+            "CSS",
+            "Python",
+            "C++",
+            "HTML"
+          ],
+          "email": "victor.batista@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "REST API",
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "CSS",
+            "HTML",
+            "Java",
+            "Rust"
+          ],
+          "email": "mirlla.alves@ccc.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Reels Maker",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Puppet"
+          ],
+          "programming_languages": [],
+          "email": "artur.farias@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS Elemental MediaConvert",
+            "AWS"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "fabio.almendro@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS Elemental MediaConvert",
+            "FFmpeg",
+            "AWS"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "felipe.felix@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Plainly",
+            "Nexrender"
+          ],
+          "programming_languages": [],
+          "email": "jackson.lino@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "AWS Elemental MediaConvert",
+            "MoviePy",
+            "AWS"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "mirlla.alves@ccc.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "SMART CABLE",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Puppeteer",
+            "Node.js",
+            "PostgreSQL",
+            "Angular"
+          ],
+          "programming_languages": [
+            "JavaScript"
+          ],
+          "email": "daniel.pires@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Node.js",
+            "PostgreSQL"
+          ],
+          "programming_languages": [
+            "JavaScript"
+          ],
+          "email": "diego.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Node.js"
+          ],
+          "programming_languages": [
+            "JavaScript"
+          ],
+          "email": "marcelo.fernandes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "marcelo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Node.js",
+            "PostgreSQL",
+            "scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Python"
+          ],
+          "email": "anthony.ferreira@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Puppeteer",
+            "Node.js",
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "jaciane.cruz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Puppeteer",
+            "Node.js",
+            "PostgreSQL",
+            "jsPDF",
+            "Docker"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "Python"
+          ],
+          "email": "jose.silva.lima@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Puppeteer",
+            "Node.js",
+            "Angular",
+            "EJS"
+          ],
+          "programming_languages": [
+            "JavaScript",
+            "HTML"
+          ],
+          "email": "marcia.pontes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "PostgreSQL",
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "mirlla.alves@ccc.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "PostgreSQL",
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "raiani.pontes@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "SPICE",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Cloud",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Amazon S3"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "andre.andrade@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "AWS Lambda",
+            "AWS API Gateway",
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "gustavo.pires@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "jeremias.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "IoT",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Epson Open Platform (EOP)",
+            "Gemini",
+            "Spring Boot",
+            "Amazon S3"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python",
+            "JavaScript"
+          ],
+          "email": "joao.bezerra@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Epson Open Platform (EOP)",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java",
+            "JavaScript"
+          ],
+          "email": "leonardo.lima@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Epson Open Platform (EOP)",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java",
+            "JavaScript"
+          ],
+          "email": "luciano.reul@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Gemini",
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "magno.dantas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Gemini",
+            "Angular",
+            "OpenAI API",
+            "PyMuPDF"
+          ],
+          "programming_languages": [
+            "Python",
+            "JavaScript"
+          ],
+          "email": "roberto.oliveira@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Scanner AI Configuration",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "TWAIN"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "andre.rodrigues@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Desktop-Standalone"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Windows",
+            "LLaMA"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "artur.farias@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "TWAIN"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "cristal.mazamba@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Gemini"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "danilo.coutinho@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Qwen"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "jonhnanthan.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Flask",
+            "GLM"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "leonardo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Flask",
+            "Django"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "marcel.sales@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "mirko@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "GPT",
+            "Epson Scan Settings API"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "talles.gomes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "TWAIN",
+            "Claude"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "wendley.franca@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Smart Security",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "DVR"
+          ],
+          "programming_languages": [],
+          "email": "adauto.barros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "iOS",
+            "DVR",
+            "HTTP"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "aramis.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "iOS",
+            "StoreKit 2",
+            "AWS Lambda"
+          ],
+          "programming_languages": [],
+          "email": "arkjoaquitonyo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Amazon API Gateway",
+            "AWS Lambda"
+          ],
+          "programming_languages": [],
+          "email": "augusto.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "iOS",
+            "DVR"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "bruno.brandao@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "iOS",
+            "Amazon DynamoDB",
+            "DVR"
+          ],
+          "programming_languages": [
+            "Swift"
+          ],
+          "email": "catarina.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Bluetooth Low Energy",
+            "iOS",
+            "Wi-Fi"
+          ],
+          "programming_languages": [],
+          "email": "felipe.felix@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Bluetooth Low Energy",
+            "Android"
+          ],
+          "programming_languages": [],
+          "email": "matheus.claudino@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "Amazon DynamoDB",
+            "AWS IoT Core Rules",
+            "Amazon SQS"
+          ],
+          "programming_languages": [],
+          "email": "samir.feitosa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud",
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android",
+            "Amazon DynamoDB",
+            "DVR"
+          ],
+          "programming_languages": [],
+          "email": "vinicius.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "Mobile"
+          ],
+          "development_ecosystem": [
+            "Android"
+          ],
+          "programming_languages": [],
+          "email": "wesley.herculano@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "TUCANO- Phase II",
+      "project_year": "2023",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "MongoDB",
+            "Docker",
+            "RabbitMQ"
+          ],
+          "programming_languages": [],
+          "email": "aramis.araujo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "arthur.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "beatriz.nunes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Transformers"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "dimitre.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "guilherme.neves@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [],
+          "email": "henrique.florencio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "lourival.netto@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Docker"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "luma.nascimento@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Angular"
+          ],
+          "programming_languages": [
+            "TypeScript"
+          ],
+          "email": "maria.henrique@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "mariane.carvalho@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Transformers"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "renato.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Teste e Inspeção de POS",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "Docker"
+          ],
+          "programming_languages": [
+            "Java"
+          ],
+          "email": "airton.ferreira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Docker",
+            "OpenCV"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python"
+          ],
+          "email": "allender.alencar@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Tesseract",
+            "EasyOCR",
+            "Moonraker",
+            "Docker",
+            "OpenCV"
+          ],
+          "programming_languages": [
+            "Python",
+            "Go"
+          ],
+          "email": "larissa.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT"
+          ],
+          "development_ecosystem": [
+            "GPIO",
+            "Raspberry Pi",
+            "OPC UA",
+            "Klipper",
+            "Moonraker",
+            "STM32",
+            "Docker",
+            "G-code"
+          ],
+          "programming_languages": [
+            "Java",
+            "Python",
+            "Bash"
+          ],
+          "email": "sabrina.cardoso@ee.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Thor Analytics",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "IoT",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "ThingsBoard",
+            "WebSocket",
+            "Pandas",
+            "NumPy",
+            "React"
+          ],
+          "programming_languages": [
+            "Python",
+            "CSS"
+          ],
+          "email": "eduardo.santos@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "ThingsBoard",
+            "WebSocket",
+            "TensorFlow",
+            "Pandas",
+            "NumPy",
+            "Flask",
+            "React",
+            "HTTP",
+            "D3.js"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "joaquim.honorio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "IoT",
+            "AI"
+          ],
+          "development_ecosystem": [
+            "ThingsBoard",
+            "WebSocket",
+            "Flask",
+            "React",
+            "HTTP",
+            "AWS Secrets Manager",
+            "Docker",
+            "Leaflet"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "ruan.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "VIRTUAL PROMOTER",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon Polly",
+            "Angular",
+            "Amazon Transcribe",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Java",
+            "TypeScript"
+          ],
+          "email": "antonio.abreu@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Chart.js",
+            "Angular",
+            "Amazon S3",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "Java",
+            "TypeScript"
+          ],
+          "email": "marcio.pereira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon Polly",
+            "Angular",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Java",
+            "TypeScript"
+          ],
+          "email": "marcos.costa@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Chart.js",
+            "Angular",
+            "Amazon Comprehend"
+          ],
+          "programming_languages": [
+            "HTML",
+            "TypeScript"
+          ],
+          "email": "roberto.oliveira@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "VRR - Vulnerability Recommendation Remediation",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "XGBoost",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy",
+            "PyTorch",
+            "Ollama"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "antonio.queiroz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "Pandas"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "beatriz.nunes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Next.js",
+            "Recharts",
+            "FastAPI",
+            "Microsoft SQL Server",
+            "XGBoost",
+            "Scikit-learn"
+          ],
+          "programming_languages": [
+            "Python",
+            "JavaScript",
+            "SQL"
+          ],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "Next.js",
+            "Recharts",
+            "FastAPI",
+            "Microsoft SQL Server",
+            "JWT",
+            "REST"
+          ],
+          "programming_languages": [
+            "Python",
+            "JavaScript",
+            "SQL"
+          ],
+          "email": "pablo.santos@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "Vulnerability Smart Assistance",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "LangChain",
+            "SQLAlchemy",
+            "Microsoft SQL Server"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "antonio.queiroz@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "Microsoft SQL Server"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "beatriz.nunes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "pgvector",
+            "LangChain",
+            "React",
+            "FastAPI",
+            "PostgreSQL",
+            "OpenAI API",
+            "Hugging Face Transformers",
+            "SQLAlchemy"
+          ],
+          "programming_languages": [
+            "TypeScript",
+            "Python"
+          ],
+          "email": "diego.azevedo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "pgvector",
+            "LangChain"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "gabriel.miranda@ee.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "pgvector",
+            "LangChain",
+            "PostgreSQL",
+            "LlamaIndex",
+            "Hugging Face Transformers",
+            "SQLAlchemy"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "jordan.nunes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "LLaMA",
+            "pgvector",
+            "LangChain",
+            "React",
+            "FastAPI",
+            "LlamaIndex",
+            "Hugging Face Transformers",
+            "Selenium",
+            "BeautifulSoup"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "pablo.santos@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "XControl-AI",
+      "project_year": "2025",
+      "participant_technologies": [
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "AWS Step Functions",
+            "Amazon CloudWatch",
+            "TensorFlow Recommenders",
+            "PySpark",
+            "MLflow",
+            "FastAPI",
+            "Amazon ECS"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "anderson.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "AI",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "AWS Step Functions",
+            "TensorFlow Recommenders",
+            "PySpark",
+            "MLflow",
+            "FastAPI",
+            "Amazon ECS"
+          ],
+          "programming_languages": [
+            "Python"
+          ],
+          "email": "gilmar.freitas@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon CloudWatch",
+            "Amazon CloudFront",
+            "PySpark",
+            "AWS Glue",
+            "Metabase",
+            "Vue.js",
+            "Amazon Athena",
+            "Amazon ECS"
+          ],
+          "programming_languages": [
+            "SQL",
+            "Python"
+          ],
+          "email": "jonhnanthan.oliveira@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon S3",
+            "AWS Lambda",
+            "AWS Step Functions",
+            "Amazon CloudWatch",
+            "Amazon CloudFront",
+            "Amazon RDS",
+            "Metabase",
+            "Amazon Athena",
+            "Amazon ECS"
+          ],
+          "programming_languages": [
+            "SQL"
+          ],
+          "email": "leandro.silva@virtus.ufcg.edu.br"
+        }
+      ]
+    },
+    {
+      "project_name": "eReceipt",
+      "project_year": "2024",
+      "participant_technologies": [
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "ESC/POS"
+          ],
+          "programming_languages": [],
+          "email": "amanda.fabricio@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Terraform",
+            "Docker"
+          ],
+          "programming_languages": [],
+          "email": "artur.farias@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "ESC/POS",
+            "Spring Boot"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Rust",
+            "Java"
+          ],
+          "email": "augusto.firmo@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Amazon Cognito",
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML",
+            "CSS",
+            "Java",
+            "TypeScript",
+            "SQL"
+          ],
+          "email": "genilson.martins@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Terraform",
+            "Docker",
+            "Angular"
+          ],
+          "programming_languages": [
+            "Java",
+            "TypeScript"
+          ],
+          "email": "gustavo.nunes@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [],
+          "development_ecosystem": [
+            "ESC/POS"
+          ],
+          "programming_languages": [
+            "HTML"
+          ],
+          "email": "luma.nascimento@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "ESC/POS",
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Rust",
+            "TypeScript"
+          ],
+          "email": "maria.henrique@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "Terraform",
+            "Amazon Cognito",
+            "Amazon S3",
+            "Amazon DynamoDB",
+            "Amazon CloudWatch",
+            "Docker",
+            "Spring Boot",
+            "MySQL",
+            "Amazon API Gateway",
+            "Amazon CloudFront"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Rust"
+          ],
+          "email": "pedro.medeiros@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web"
+          ],
+          "development_ecosystem": [
+            "ESC/POS",
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Rust",
+            "TypeScript"
+          ],
+          "email": "renan.silva@virtus.ufcg.edu.br"
+        },
+        {
+          "application_domain": [
+            "Web",
+            "Cloud"
+          ],
+          "development_ecosystem": [
+            "ESC/POS",
+            "AWS Lambda",
+            "Spring Boot",
+            "Angular"
+          ],
+          "programming_languages": [
+            "HTML",
+            "Rust",
+            "Java",
+            "TypeScript"
+          ],
+          "email": "victor.batista@virtus.ufcg.edu.br"
+        }
+      ]
+    }
+  ]
+}
