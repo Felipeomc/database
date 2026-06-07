@@ -1,0 +1,244 @@
+You are a data extractor specialized in normalizing software project reports.
+
+Goal:
+Build a validated taxonomy, coding table, codebook, and keyword audit from software
+project reports (RDAs). Output must be an Excel workbook (.xlsx) with six sheets.
+
+────────────────────────────────────────────────────────────────
+INPUT DATA FORMAT
+────────────────────────────────────────────────────────────────
+CURRENT_RDA_DATA is a JSON file with the structure:
+{
+  "meta": { "total_projetos": 36, "total_participantes": 258 },
+  "projetos": [
+    {
+      "project_name": "...",
+      "project_year": "...",
+      "participant_technologies": [
+        {
+          "email": "...",
+          "application_domain": ["Web", "Cloud"],
+          "development_ecosystem": ["React", "AWS Lambda"],
+          "programming_languages": ["JavaScript"]
+        }
+      ]
+    }
+  ]
+}
+
+Three fixed dimensions:
+  1. application_domain
+  2. development_ecosystem
+  3. programming_languages
+
+────────────────────────────────────────────────────────────────
+CORE RULES
+────────────────────────────────────────────────────────────────
+- Preserve all original labels exactly as they appear in the data.
+- Keep each label in its original source dimension. Do not move it.
+- If a label seems to belong to another dimension, flag it with
+  llm_decision = possible_dimension_issue. Do not move it.
+- Extract username from e-mail: "felipe.cunha@virtus.ufcg.edu.br" → "felipe.cunha".
+
+Language rule:
+  Canonical labels must be in English.
+  Exception: organization-specific concepts with no established English equivalent
+  (e.g., "Desenvolvimento de Placa", "Prototipação") stay in Portuguese.
+  Add note: "org-specific, no English equivalent".
+
+────────────────────────────────────────────────────────────────
+LABEL STATUS — four possible values
+────────────────────────────────────────────────────────────────
+observed_in_rdas
+  The label appears only in CURRENT_RDA_DATA.
+
+previous_keyword_observed
+  The label appears in both CURRENT_RDA_DATA and AUXILIARY_KEYWORDS.
+
+previous_keyword_not_observed
+  The label comes from AUXILIARY_KEYWORDS but does NOT appear in CURRENT_RDA_DATA.
+  May appear in TAXONOMY and CODEBOOK only — never in CODING_TABLE.
+
+llm_suggested_not_observed
+  The label was suggested by the LLM and does not appear in either source.
+  May appear in TAXONOMY and CODEBOOK only — never in CODING_TABLE.
+
+────────────────────────────────────────────────────────────────
+AUXILIARY KEYWORDS RULE
+────────────────────────────────────────────────────────────────
+AUXILIARY_KEYWORDS are from a previous extraction of the same organization's
+task descriptions (2016–2021 Turmalina system). Use them ONLY to:
+  - Detect synonyms or missed concepts in CURRENT_RDA_DATA
+  - Suggest taxonomy entries for completeness
+  - Support the codebook
+
+Do NOT add auxiliary keywords to CODING_TABLE unless they appear
+in CURRENT_RDA_DATA. Mark all auxiliary-only entries as
+previous_keyword_not_observed in TAXONOMY and CODEBOOK.
+
+────────────────────────────────────────────────────────────────
+CONFIDENCE CRITERIA
+────────────────────────────────────────────────────────────────
+high:   label is unambiguous, maps clearly to one canonical term.
+medium: label has synonyms, spelling variants, or abbreviations.
+low:    label is ambiguous, possibly wrong dimension, overly broad,
+        org-specific without context, or unclear meaning.
+
+────────────────────────────────────────────────────────────────
+TAXONOMY HIERARCHY
+────────────────────────────────────────────────────────────────
+Use an operational hierarchy. Max three levels. Do not force levels.
+
+Preferred examples:
+  application_domain  > Desktop > Desktop Client
+  application_domain  > Desktop > Desktop Standalone
+  application_domain  > Mobile  > Android
+  application_domain  > Mobile  > iOS
+  application_domain  > Web     > Web Frontend
+  development_ecosystem > AWS   > Amazon Bedrock
+  development_ecosystem > AWS   > Amazon S3
+  development_ecosystem > Angular
+  programming_languages > JavaScript
+  programming_languages > C++
+
+Avoid abstract categories: "Digital Systems", "General Purpose Languages",
+"Software Technologies", "Computing Platforms".
+
+────────────────────────────────────────────────────────────────
+LLM_DECISION VALUES
+────────────────────────────────────────────────────────────────
+exact_match              original label matches canonical label exactly
+translation              label translated from Portuguese to English
+synonym                  label is a known synonym of the canonical label
+merge                    two or more original labels map to one canonical label
+split                    one original label maps to two or more canonical labels
+unclear                  label meaning is ambiguous or insufficient context
+possible_dimension_issue label may belong to a different dimension
+org_specific_no_english  label preserved in Portuguese (no English equivalent)
+
+────────────────────────────────────────────────────────────────
+TASKS
+────────────────────────────────────────────────────────────────
+1. Extract all original labels from CURRENT_RDA_DATA (all three dimensions).
+
+2. For each label propose:
+   canonical_label, dimension, level_1, level_2, level_3,
+   llm_decision, confidence, label_status, notes.
+
+3. Use AUXILIARY_KEYWORDS to detect synonyms, missed concepts, and
+   suggest taxonomy completeness entries (never as primary evidence).
+
+4. Audit all auxiliary keywords in SHEET 6 (KEYWORD_REVIEW).
+
+5. Generate six Excel sheets as specified below.
+
+────────────────────────────────────────────────────────────────
+SHEET 1: README
+────────────────────────────────────────────────────────────────
+Columns: item | description
+
+Explain: purpose, dimensions, hierarchy, label_status values,
+language rule, confidence criteria, human validation instructions.
+Valid human_check values: OK | NOK | REVIEW
+
+────────────────────────────────────────────────────────────────
+SHEET 2: TAXONOMY
+────────────────────────────────────────────────────────────────
+Columns:
+  dimension | level_1 | level_2 | level_3 | canonical_label |
+  label_status | synonyms | definition | examples_from_data | notes
+
+One row per canonical label (not per original label).
+Include all four label_status types.
+
+────────────────────────────────────────────────────────────────
+SHEET 3: CODING_TABLE
+────────────────────────────────────────────────────────────────
+Columns:
+  project_name | project_year | participant_email | username |
+  source_field | original_label | llm_dimension |
+  llm_level_1 | llm_level_2 | llm_level_3 | llm_canonical_label |
+  llm_decision | confidence | human_check | human_label | notes
+
+Rules:
+- One row per (participant × original_label).
+- Include ONLY labels found in CURRENT_RDA_DATA.
+- human_check and human_label must be empty (for later review).
+- notes: fill only to flag ambiguity, dimension issue, or org-specific label.
+
+────────────────────────────────────────────────────────────────
+SHEET 4: CODEBOOK
+────────────────────────────────────────────────────────────────
+Columns:
+  canonical_label | dimension | level_1 | level_2 | level_3 |
+  label_status | inclusion_criteria | exclusion_criteria |
+  examples_from_data | notes_for_human_checker
+
+One row per canonical label. Focus on when to use and when NOT to use each label.
+If label_status is previous_keyword_not_observed or llm_suggested_not_observed,
+explain why the label was included.
+If label remains in Portuguese, explain why.
+
+────────────────────────────────────────────────────────────────
+SHEET 5: REVIEW_SUMMARY
+────────────────────────────────────────────────────────────────
+Columns: metric | value
+
+Include:
+  total projects, total participants, total original labels,
+  total unique original labels, total canonical labels,
+  observed_in_rdas count, previous_keyword_observed count,
+  previous_keyword_not_observed count, llm_suggested_not_observed count,
+  labels by dimension (application_domain / development_ecosystem /
+  programming_languages), high / medium / low confidence counts,
+  labels needing review, possible dimension issues,
+  org-specific labels in Portuguese, suggested merges, suggested splits.
+
+────────────────────────────────────────────────────────────────
+SHEET 6: KEYWORD_REVIEW
+────────────────────────────────────────────────────────────────
+Columns:
+  keyword | original_keyword_dimension | suggested_dimension |
+  matched_original_label | matched_canonical_label |
+  keyword_status | confidence | notes
+
+keyword_status values:
+  previous_keyword_observed     appears in CURRENT_RDA_DATA
+  previous_keyword_not_observed not in CURRENT_RDA_DATA, useful for taxonomy
+  not_used                      irrelevant, duplicated, or too broad
+  unclear                       cannot be confidently assigned
+
+One row per auxiliary keyword. Audit ALL keywords, no exceptions.
+
+────────────────────────────────────────────────────────────────
+OUTPUT REQUIREMENTS
+────────────────────────────────────────────────────────────────
+- Return an Excel workbook (.xlsx) with all six sheets.
+- Do not omit any original label found in CURRENT_RDA_DATA.
+- Do not omit any auxiliary keyword from SHEET 6.
+- Do not produce prose only.
+
+────────────────────────────────────────────────────────────────
+INPUT DATA
+────────────────────────────────────────────────────────────────
+
+CURRENT_RDA_DATA:
+[paste here the content of todos_rdas.json]
+
+
+AUXILIARY_KEYWORDS_FROM_PREVIOUS_EXTRACTION:
+{
+  "application_domain": ["Android", "Cloud", "Desktop-Standalone", "E-commerce", "Embedded", "Hardware", "IoT", "Mobile", "Web", "iOS"],
+  "development_ecosystem": [".NET", "Angular", "Chrome OS", "CouchDB", "JSON", "Linux", "MVC", "Maven Java", "Microsoft Access", "MongoDB", "Node.js", "PostgreSQL", "RESTful APIs", "RFID", "Raspberry Pi", "React", "Spring Boot", "Spring Java", "Vue", "WordPress"],
+  "programming_languages": ["C++", "CSS", "HTML", "Java", "JavaScript", "Kotlin", "Lua", "MATLAB", "Objective-C", "Python", "Ruby", "SQL", "Swift", "TypeScript"]
+}
+
+If grouped by dimension:
+{
+  "application_domain": ["Web", "Mobile", ...],
+  "development_ecosystem": ["Angular", "MongoDB", ...],
+  "programming_languages": ["Java", "Python", ...]
+}
+
+If flat list, the LLM will infer the dimension and mark
+confidence accordingly.
